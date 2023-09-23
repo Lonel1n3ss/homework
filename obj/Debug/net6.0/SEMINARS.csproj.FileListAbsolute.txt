@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\git education\SEMINARS\bin\Debug\net6.0\SEMINARS.exe
+C:\Users\User\Desktop\git education\SEMINARS\bin\Debug\net6.0\SEMINARS.deps.json
+C:\Users\User\Desktop\git education\SEMINARS\bin\Debug\net6.0\SEMINARS.runtimeconfig.json
+C:\Users\User\Desktop\git education\SEMINARS\bin\Debug\net6.0\SEMINARS.dll
+C:\Users\User\Desktop\git education\SEMINARS\bin\Debug\net6.0\SEMINARS.pdb
+C:\Users\User\Desktop\git education\SEMINARS\obj\Debug\net6.0\SEMINARS.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\git education\SEMINARS\obj\Debug\net6.0\SEMINARS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\git education\SEMINARS\obj\Debug\net6.0\SEMINARS.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\git education\SEMINARS\obj\Debug\net6.0\SEMINARS.AssemblyInfo.cs
+C:\Users\User\Desktop\git education\SEMINARS\obj\Debug\net6.0\SEMINARS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\git education\SEMINARS\obj\Debug\net6.0\SEMINARS.dll
+C:\Users\User\Desktop\git education\SEMINARS\obj\Debug\net6.0\refint\SEMINARS.dll
+C:\Users\User\Desktop\git education\SEMINARS\obj\Debug\net6.0\SEMINARS.pdb
+C:\Users\User\Desktop\git education\SEMINARS\obj\Debug\net6.0\SEMINARS.genruntimeconfig.cache
+C:\Users\User\Desktop\git education\SEMINARS\obj\Debug\net6.0\ref\SEMINARS.dll
